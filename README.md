@@ -8,15 +8,8 @@
 
 Serving grade level 6-8, Robert Peary Middle School has not have computer science elective for many years. There have been other computer classes where students learn the basics of computers. They learn how to e-mail, use software from their chromebooks, and learn how to type on a keyboard. This school also use to have MESA (Mathematics, Engineering, Science, Achievemen). This program provided the opportunity to engineer projects in which they competed with other schools. Project such as prosthetic arm, glider, and presentation of the digestion system. These are only to name a few of the projects. In addtion, there was the opportunity for students to also code using arduinos to attach to the prosthetic arms. This program no longer exist in this school but one day it shall return.
 
-The school had also a program with USC where students teamed up to discuss robotics. This school year we have changed our schedule. Students are given 4 classes for 10 weeks. This gives students more opportunities to take more elective classes. Students who have been in computer science for the first mester will return to third mester computer science elective. 
+The school had also a program with USC where students teamed up to discuss robotics. This school year we have changed our schedule. Students are given 4 classes for 10 weeks. This gives students more opportunities to take more elective classes. Students who have been in computer science for the first mester will return to third mester computer science elective. This is where I would implement new curriculum as described below. Challenges with the new schedule is the time constraint. To have only 10 weeks for a semesterful of knowledge can be challenging. Topics choose from can be challenging too because I am not sure which one should be taught and in which order. I have never taught this course before and have tried searching curriculum that will help. That is another challenge. I know what I want to teach and that is computer science but I do not know what I want to teach.
 
-
-
-
-
-Provide relevant details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
 
 ## Context
 
