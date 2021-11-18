@@ -91,9 +91,5 @@ Students are given the chance to work in Code.org and MIT Scratch. In [Code.org]
 
 ### Impacts
 
-This will help out students computer science implements critical thinking skills that students may not have or need help building on it. Students at my school do not have a lot of opportunities for trial an error. The first offense is taken and shut down. My students need multiple chances and to make mistakes and speak their mind. Though it is difficult in a school system that castigates them for things that they were not taught otherwise. I know this knew knowledge would be difficult and weird to them because it is not somethig they are use to doing. Even as an educator it will have be break out of my comfort level and 
+This will help out students computer science implements critical thinking skills that students may not have or need help building on it. Students at my school do not have a lot of opportunities for trial an error. The first offense is taken and shut down. My students need multiple chances and to make mistakes and speak their mind. Though it is difficult in a school system that castigates them for things that they were not taught otherwise. I know this knew knowledge would be difficult and weird to them because it is not somethig they are use to doing. Even as an educator it will have be break out of my comfort level and actually let students lead their education. The only reason I dont is because I feel I wont know how to lead them to where they want to go. I am not sure how to cultivate class resilency. I am not even sure how that would even look like. 
 
-How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
