@@ -64,6 +64,10 @@ Students are given the chance to work in Code.org and MIT Scratch. In [Code.org]
 
 ### Software Specifications
 
+{web browser}
+Google Chrome
+Safari
+
 Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.
