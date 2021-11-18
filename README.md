@@ -50,23 +50,24 @@ Robert Peary Middle School students are with in the Los Angeles Unified School D
 
 **Grade Level 7th**
 
-**Description** 
 
-Students are given the chance to work in Code.org and MIT Scratch. In [Code.org](https://code.org), students created a website and learned to code with angry bird characters. Through this free resource students learned basics on how to create tags for HTML. Students were also given the chance to learn how to code angry birds to send them to different locations to then complete tasks. With both of these prgrams students were given the chance to practice pair programming. 
-
-  In [MIT Scratch](https://scratch.mit.edu), students were given different task to complete. These tasks were projects were like [Make a game](https://scratch.mit.edu/projects/editor/?tutorial=chase-game), students are given a tutroial on how to make a game that will have them chase a charater to to score points. There are also projects brought to you by youtube. Such projects are like [the catch game](https://www.youtube.com/watch?v=7NN5v2wSL4U). Teaches students step by step on how to set up the code on catching falling objects. It teaches students how to use graphical planes to determine quadrants of x and y axis.
-  
-  Next time meeting with te students will be using program called [TinkerCad](https://www.tinkercad.com). This program has students work with objects that will give them 3D movement of the object but online. Students use this online program to then download their project to upload the saved file to [Ultimaker](https://ultimaker.com/software/ultimaker-cura). Students should have downloaded this software to their computer. This application is called Cura.This is the program that talks to the 3D printer machine. 
-  
-  Lastly, students will be using a [canvasworkspace](https://canvasworkspace.brother.com/en) to work with vynil/adhesive cutter. They will use this to design products to bring awareness to local or worldwide issues. This cutter uses an online program to have students type and design logos and text to print out in either an adhesive medium or vinyl to then adhere to other cloth like material. 
 
 ## Plan
 
 ### Software Specifications
 
-{web browser}
-Google Chrome
-Safari
+#### Web Browser ####
+* Google Chrome
+* Safari
+
+#### Learning management system ####
+* Schoology
+
+#### Operating system ####
+* Students Chrome OS
+* Teachers MACOS Big sur
+
+ 
 
 Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
@@ -79,9 +80,15 @@ wherever necessary.
 
 ### Application
 
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+**Description** 
+
+Students are given the chance to work in Code.org and MIT Scratch. In [Code.org](https://code.org), students created a website and learned to code with angry bird characters. Through this free resource students learned basics on how to create tags for HTML. Students were also given the chance to learn how to code angry birds to send them to different locations to then complete tasks. With both of these prgrams students were given the chance to practice pair programming. 
+
+  In [MIT Scratch](https://scratch.mit.edu), students were given different task to complete. These tasks were projects were like [Make a game](https://scratch.mit.edu/projects/editor/?tutorial=chase-game), students are given a tutroial on how to make a game that will have them chase a charater to to score points. There are also projects brought to you by youtube. Such projects are like [the catch game](https://www.youtube.com/watch?v=7NN5v2wSL4U). Teaches students step by step on how to set up the code on catching falling objects. It teaches students how to use graphical planes to determine quadrants of x and y axis.
+  
+  Next time meeting with te students will be using program called [TinkerCad](https://www.tinkercad.com). This program has students work with objects that will give them 3D movement of the object but online. Students use this online program to then download their project to upload the saved file to [Ultimaker](https://ultimaker.com/software/ultimaker-cura). Students should have downloaded this software to their computer. This application is called Cura.This is the program that talks to the 3D printer machine. 
+  
+  Lastly, students will be using a [canvasworkspace](https://canvasworkspace.brother.com/en) to work with vynil/adhesive cutter. They will use this to design products to bring awareness to local or worldwide issues. This cutter uses an online program to have students type and design logos and text to print out in either an adhesive medium or vinyl to then adhere to other cloth like material. 
 
 ### Impacts
 
