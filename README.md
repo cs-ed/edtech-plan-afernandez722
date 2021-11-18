@@ -8,7 +8,7 @@
 
 Serving grade level 6-8, Robert Peary Middle School has not have computer science elective for many years. There have been other computer classes where students learn the basics of computers. They learn how to e-mail, use software from their chromebooks, and learn how to type on a keyboard. This school also use to have MESA (Mathematics, Engineering, Science, Achievemen). This program provided the opportunity to engineer projects in which they competed with other schools. Project such as prosthetic arm, glider, and presentation of the digestion system. These are only to name a few of the projects. In addtion, there was the opportunity for students to also code using arduinos to attach to the prosthetic arms. This program no longer exist in this school but one day it shall return.
 
-The school had also a program with USC where students teamed up to discuss robotics. This school year we have changed our schedule. Students are given 4 classes for 10 weeks. This gives students more opportunities to take more elective classes. Students who have been in computer science for the first mester will return to third mester computer science elective. This is where I would implement new curriculum as described below. Challenges with the new schedule is the time constraint. To have only 10 weeks for a semesterful of knowledge can be challenging. Topics choose from can be challenging too because I am not sure which one should be taught and in which order. I have never taught this course before and have tried searching curriculum that will help. That is another challenge. I know what I want to teach and that is computer science but I do not know what I want to teach.
+The school had also a program with USC where students teamed up to discuss robotics. This school year we have changed our schedule. Students are given 4 classes for 10 weeks. This gives students more opportunities to take more elective classes. Students who have been in computer science for the first mester will return to third mester computer science elective. This is where I would implement new curriculum as described below. Challenges with the new schedule is the time constraint. To have only 10 weeks for a semesterful of knowledge can be challenging. Topics choose from can be challenging too because I am not sure which one should be taught and in which order. I have never taught this course before and have tried searching curriculum that will help. That is another challenge. I know what I want to teach and that is computer science but I do not know what I want to teach. 
 
 
 ## Context
@@ -37,14 +37,6 @@ Robert Peary Middle School students are with in the Los Angeles Unified School D
   - _Foster Youth_ **1.3%**
   - _Homeless_ **2.5%**
 
-## Course
-
-**Course name** **COMPUTER SCI DISCOVERY A/B**
-
-**Grade Level 7th**
-
-
-
 ## Plan
 
 ### Software Specifications
@@ -53,14 +45,20 @@ Robert Peary Middle School students are with in the Los Angeles Unified School D
 * Google Chrome
 * Safari
 
+#### Website ####
+* Code.org](https://code.org)
+* [MIT Scratch](https://scratch.mit.edu)
+* Youtube
+* [TinkerCad](https://www.tinkercad.com)
+* [Ultimaker](https://ultimaker.com/software/ultimaker-cura)
+* [canvasworkspace](https://canvasworkspace.brother.com/en)
+
 #### Learning management system ####
-* Schoology
+* [Schoology](https://lms.lausd.net)
 
 #### Operating system ####
-* Students Chrome OS
-* Teachers MACOS Big sur
-
- 
+* Students use Chrome OS
+* Teacher uses MACOS Big sur
 
 Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
@@ -68,10 +66,18 @@ installed as well as any online services.
 
 ### Hardware Specifications
 
+* Chromebook
+* Macbook Air
+
 Describe the hardware requirements for your class. Provide specific requirements
 wherever necessary.
 
 ### Application
+## Course
+
+**Course name** **COMPUTER SCI DISCOVERY A/B**
+
+**Grade Level 7th**
 
 **Description** 
 
@@ -84,6 +90,8 @@ Students are given the chance to work in Code.org and MIT Scratch. In [Code.org]
   Lastly, students will be using a [canvasworkspace](https://canvasworkspace.brother.com/en) to work with vynil/adhesive cutter. They will use this to design products to bring awareness to local or worldwide issues. This cutter uses an online program to have students type and design logos and text to print out in either an adhesive medium or vinyl to then adhere to other cloth like material. 
 
 ### Impacts
+
+This will help out students computer science implements critical thinking skills that students may not have or need help building on it. Students at my school do not have a lot of opportunities for trial an error. The first offense is taken and shut down. My students need multiple chances and to make mistakes and speak their mind. Though it is difficult in a school system that castigates them for things that they were not taught otherwise. I know this knew knowledge would be difficult and weird to them because it is not somethig they are use to doing. Even as an educator it will have be break out of my comfort level and 
 
 How will the technology help *all* students learn? In this section, you can also
 describe how you address class resiliency, such as adapting to
